@@ -1,17 +1,15 @@
 ---
-title: RustConf 2024
+title: Rust Cameroon Meetup 2025
 description: >-
-  Members of the Rust Core team will be discussing the upcoming Rust Foundation
-  and questions we've been fielding from the community during the Foundation
-  Conversation Q&A sessions.
-date: 2024-09-10T00:00:00Z
+  Learn Step by Step Strategies to Grow In The Rust Programming Language.
+date: 2025-01-10T00:00:00Z
 tags:
   - live
 layout: layouts/event.njk
 ---
-The Rust Foundation is thrilled to host RustConf 2024 in Montreal Canada from September 10-13! RustConf is one of the most-loved annual conferences celebrating the Rust programming language and its global community.
+The Rust Cameroon Community is thrilled to host it's First Virtual Meetup 2025 on goolge-meet January 20th!
 
-The Rust Foundation will also be hosting a half-day colocated event on Friday, September 13 dedicated to the professional use of Rust called Rust Global. To grab your spot, register for an "Industry/Government" ticket at RustConf.
+The Rust Cameroon Community will host incredible speakers for this event.
 
-* Learn more about RustConf 2024 [here](https://rustconf.com/)
-* [Register to attend](https://www.eventbrite.com/e/rustconf-2024-tickets-865842106047?aff=oddtdtcreator)
+* Learn more about our Meetup 2025
+* [Join Us](https://meet.google.com/usf-amnf-kyz)
